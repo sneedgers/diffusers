@@ -190,7 +190,7 @@ setup(
     license="Apache",
     author="The HuggingFace team",
     author_email="patrick@huggingface.co",
-    url="https://github.com/huggingface/diffusers",
+    url="https://github.com/sneedgers/diffusers",
     package_dir={"": "src"},
     packages=find_packages("src"),
     include_package_data=True,
